@@ -1,0 +1,21 @@
+{
+  "name": "task-done",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ghaoui/task-done",
+  "authors": [
+    "ghaoui.hamdi@gmail.com <ghaoui.hamdi@gmail.com>"
+  ],
+  "description": "Task Management",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
